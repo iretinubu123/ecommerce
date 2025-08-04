@@ -245,4 +245,4 @@ This project is licensed under the MIT License.
 
 ## Support
 
-For support, email support@shophub.com or create an issue in the repository. 
+For support, email support@shop911.com or create an issue in the repository. 
