@@ -23,6 +23,7 @@
     "concurrently": "^8.2.2"
   },
   "dependencies": {
-    "mongodb": "^6.18.0"
+    "mongodb": "^6.18.0",
+    "react-scripts": "^5.0.1"
   }
 }
